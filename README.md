@@ -1,5 +1,5 @@
 # Diseño del contenido y funcionalidades de una herramienta para la creación de actividades educativas a partir de la ciencia ciudadana y los ODS
 
-Este es repositorio que corresponde al trabajo final de grado de Iago Nus.
+Este es repositorio que corresponde al trabajo final de grado de Iago Nus.Cancel changes
 
-Dentro de el repositorio, encontraremos el dataset con todos los datos que hemos recogido en los talleres. Por otro lado, veremos el fichero de python donde recogemos el análisis del cuestionario que hemos utilizado para extraer toda la información.
+Dentro de el repositorio, encontraremos el código con el que hemos extraído los gráficos correspondientes a las respuestas del cuestionario. En el caso que se quiera acceder al dataset, será necesario poneros en contacto con Miriam Calvera.
